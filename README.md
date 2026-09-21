@@ -51,9 +51,6 @@ Me interesa la intersección entre el análisis de datos y el desarrollo de soft
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mariasaurius&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B9D&icon_color=A8D4F5&text_color=6b5b73&ring_color=D4C1F5" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariasaurius&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B9D&text_color=6b5b73&langs_count=8" width="48%"/>
-
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/mariasaurius/mariasaurius/output/github-contribution-grid-snake.svg" width="100%"/>
