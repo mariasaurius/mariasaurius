@@ -40,26 +40,11 @@ Me interesa la intersección entre el análisis de datos y el desarrollo de soft
 <!-- ================= PROYECTOS ================= -->
 ## ⋆ Proyectos
 
-<table width="100%">
-<tr><td align="center">
-
-### 📊 Muestreo Estadístico — Riesgo de Deserción Estudiantil
-
-<samp>
-
-Diseño metodológico y cálculo muestral mediante **Muestreo Aleatorio Estratificado (MAE)** para el estudio de la vulnerabilidad económica y el riesgo de deserción estudiantil.
-
-</samp>
-
-![R](https://img.shields.io/badge/R-D4C1F5?style=flat-square&logo=r&logoColor=ffffff)
-![Statistics](https://img.shields.io/badge/Estadística-FFC1D9?style=flat-square)
-
+<p align="center">
 <a href="https://github.com/mariasaurius/Proyecto-Muestreo-Estadistico-Riesgo-de-Desercion-Estudiantil-UNALMED">
-<img src="https://img.shields.io/badge/Ver%20repositorio-FF6B9D?style=flat-square&logo=github&logoColor=ffffff"/>
+<img src="./assets/project_card.png" width="720"/>
 </a>
-
-</td></tr>
-</table>
+</p>
 
 <p align="center"><samp><i>✦ más proyectos próximamente ✦</i></samp></p>
 
@@ -84,15 +69,11 @@ Diseño metodológico y cálculo muestral mediante **Muestreo Aleatorio Estratif
 <!-- ================= CONTACTO ================= -->
 ## ⋆ Contacto
 
-<table width="100%">
-<tr><td align="center">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/ardila-otero-maria-paula" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-A8D4F5?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+<img src="./assets/contact_card.png" width="620"/>
 </a>
-
-</td></tr>
-</table>
+</p>
 
 <!-- ================= BANNER INFERIOR TIPO NUBE ================= -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:A8D4F5,50:D4C1F5,100:FFC1D9&height=150&section=footer" width="100%"/>
