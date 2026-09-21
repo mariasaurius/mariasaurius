@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: mariasaurius
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=FF6B9D&color_dots=FFF3F8,FFD6E8,FFC1D9,D4C1F5,A8D4F5
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF6B9D&color_dots=%23FFF3F8,%23FFD6E8,%23FFC1D9,%23D4C1F5,%23A8D4F5
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
