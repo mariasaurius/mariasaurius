@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= BANNER SUPERIOR TIPO NUBE ================= -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC1D9,50:D4C1F5,100:A8D4F5&height=200&section=header&text=María%20Paula%20Ardila%20Otero&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Ciencias%20de%20la%20Computación%20%E2%9C%A6%20Estadística&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,50:D4C1F5,100:A8D4F5&height=200&section=header&text=María%20Paula%20Ardila%20Otero&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciencias%20de%20la%20Computación%20%E2%9C%A6%20Estadística&descAlignY=58&descSize=17" width="100%"/>
 
 <!-- ================= TAGLINE ANIMADA ================= -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=bienvenid%40+a+mi+espacio+%E2%9C%A8;estudiante+%2B+curiosa+%2B+en+constante+aprendizaje;R+%C2%B7+LaTeX+%C2%B7+Python+%C2%B7+Excel" alt="Typing SVG"/>
@@ -76,4 +76,4 @@ Me interesa la intersección entre el análisis de datos y el desarrollo de soft
 </p>
 
 <!-- ================= BANNER INFERIOR TIPO NUBE ================= -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A8D4F5,50:D4C1F5,100:FFC1D9&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D4F5,50:D4C1F5,100:FFC1D9&height=150&section=footer" width="100%"/>
