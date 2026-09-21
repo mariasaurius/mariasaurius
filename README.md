@@ -20,7 +20,7 @@
 
 Soy **María Paula Ardila Otero**, estudiante de **Ciencias de la Computación** con doble titulación en **Estadística** en la **Universidad Nacional de Colombia**, sede Medellín.
 
-Me interesa la intersección entre el análisis de datos y el desarrollo de software: me gusta entender los números tanto como construir las herramientas que los procesan.
+Me interesa la intersección entre el análisis de datos y el desarrollo de software: disfruto tanto interpretar lo que dicen los datos como construir las herramientas que los procesan.
 
 </samp>
 
