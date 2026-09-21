@@ -21,8 +21,6 @@ Me interesa la intersección entre el análisis de datos y el desarrollo de soft
 
 </samp>
 
-<img src="./assets/3.png" width="100%"/>
-
 <!-- ================= STACK ================= -->
 ## ⋆ Stack
 
@@ -47,8 +45,6 @@ Me interesa la intersección entre el análisis de datos y el desarrollo de soft
 </p>
 
 <p align="center"><samp><i>✦ más proyectos próximamente ✦</i></samp></p>
-
-<img src="./assets/3.png" width="100%"/>
 
 <!-- ================= ESTADÍSTICAS + SNAKE ================= -->
 ## ⋆ Estadísticas
